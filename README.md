@@ -1,4 +1,4 @@
-https://github.com/vitaliy01101-beep/posmotri_v_okno-ad
+https://github.com/vitaliy01101-beep/posmotri-v-okno-ad
 
 # Яндекс Практикум, практическая работа "Посмотри В Окно"
 
